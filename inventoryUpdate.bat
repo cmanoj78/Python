@@ -1,0 +1,1 @@
+@py.exe C:\Manoj\Personal\Edu\Python\InventoryUpdate.py %*

@@ -1,0 +1,2 @@
+2017-01-02 11:59:14,380 - DEBUG - This is a debug message from python shell
+2017-01-02 12:03:14,418 - CRITICAL - this is a critical message from python shell
